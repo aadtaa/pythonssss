@@ -1,0 +1,11 @@
+# TCX Parser Dependencies
+lxml>=4.9.0
+numpy>=1.24.0
+python-dateutil>=2.8.0
+
+# Optional: for enhanced altimetry smoothing
+scipy>=1.10.0
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
